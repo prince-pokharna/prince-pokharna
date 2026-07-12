@@ -62,8 +62,8 @@ prince = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=prince-pokharna&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-pokharna&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=1800&exclude_repo=prince-pokharna" />
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=prince-pokharna&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=prince-pokharna&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
 <br/>
 
