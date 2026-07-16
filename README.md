@@ -98,6 +98,6 @@ prince = {
 ## 📫 Connect
 
 [![Email](https://img.shields.io/badge/Email-prince187p0kharna%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prince187p0kharna@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-prince--pokharna-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/prince-pokharna-37a1b7329)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-prince--pokharna-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/prince-pokharna)
 
 <img src="https://komarev.com/ghpvc/?username=prince-pokharna&style=flat&color=58a6ff&label=Profile+Views" />
