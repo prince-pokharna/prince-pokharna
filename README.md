@@ -86,8 +86,13 @@ MySQL / CSV                                                                     
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=prince-pokharna&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=1f6feb" alt="GitHub Stats"/>
-<img height="155" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=prince-pokharna&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" alt="Top Languages"/>
+<a href="https://github.com/prince-pokharna">
+  <img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prince-pokharna&theme=github_dark" alt="GitHub Profile Summary"/>
+</a>
+
+<a href="https://github.com/prince-pokharna">
+  <img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prince-pokharna&theme=github_dark" alt="Repos Per Language"/>
+</a>
 
 <br/>
 
@@ -137,10 +142,13 @@ MySQL / CSV                                                                     
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:prince187p0kharna@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/prince-pokharna-37a1b7329)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prince187p0kharna@gmail.com)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prince-pokharna-37a1b7329)
 
-<img src="https://komarev.com/ghpvc/?username=prince-pokharna&style=flat&color=58a6ff&label=Profile+Views&labelColor=0d1117" alt="Profile Views"/>
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=prince-pokharna&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS&labelColor=0d1117)
 
 </div>
 
