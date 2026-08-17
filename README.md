@@ -101,9 +101,9 @@ MySQL / CSV                                                                     
 </div>
 
 <!-- AUTO_START -->
-> 🤖 **Auto-updated:** 16 Aug 2026 · 06:52 UTC
+> 🤖 **Auto-updated:** 17 Aug 2026 · 07:08 UTC
 >
-> 📦 **Public Repos:** 40 &nbsp;·&nbsp; 👥 **Followers:** 7 &nbsp;·&nbsp; **Following:** 6
+> 📦 **Public Repos:** 28 &nbsp;·&nbsp; 👥 **Followers:** 7 &nbsp;·&nbsp; **Following:** 7
 <!-- AUTO_END -->
 
 ---
