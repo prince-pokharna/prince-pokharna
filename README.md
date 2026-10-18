@@ -19,7 +19,7 @@
 prince = {
     "name"          : "Prince Pokharna",
     "education"     : "B.Tech CSE (Data Science) @ SRMIST Chennai",
-    "cgpa"          : "9.63 / 10.0",
+    "cgpa"          : "9.35 / 10.0",
     "certifications": [
         "Oracle Certified Data Science Professional (2025)",
         "Oracle Agentic AI Foundations — 1Z0-1157-26 (2025)",
